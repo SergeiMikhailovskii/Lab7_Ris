@@ -1,0 +1,7 @@
+<users>
+  <user id="1" name="User1" />
+  <user id="2" name="User2" />
+  <user id="3" name="User3" cardId="1" />
+  <user id="4" name="Sergei" cardId="2" />
+  <user id="5" name="Sergei1" cardId="5" />
+</users>

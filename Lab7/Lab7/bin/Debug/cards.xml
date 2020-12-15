@@ -1,0 +1,7 @@
+<cards>
+  <card id="1" Amount="100" />
+  <card id="2" Amount="200" />
+  <card id="3" Amount="300" />
+  <card id="4" Amount="900" />
+  <card id="5" Amount="0" />
+</cards>
